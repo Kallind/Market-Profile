@@ -16,4 +16,4 @@ Here are the main highlights of this project:
 
 3. **Market Profile Distribution**: The core of this project is the creation of a Market Profile distribution based on the stock data. This distribution helps us visualize the concentration of trading activity at different price levels.
 
-4. **Data Visualization**: To gain insights and understand trends within the stock data, we utilized Seaborn and Matplotlib for data visualization. These libraries allowed us to create various plots and charts to aid in our analysis.
+4. **Data Visualization**: To gain insights and understand trends within the stock data, we utilized Seaborn and Matplotlib libraries for data visualization. These libraries allowed us to create various plots and charts to aid in our analysis.
